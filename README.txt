@@ -1,0 +1,1 @@
+Demo application uses compass to rotate circular map of mountaintops view to figure out whats the mountain top I am looking at.
